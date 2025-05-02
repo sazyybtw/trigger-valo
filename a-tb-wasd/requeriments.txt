@@ -1,0 +1,8 @@
+bettercam
+comtypes
+numpy
+opencv-python
+PyAutoGUI
+pytweening
+pywin32
+keyboard
